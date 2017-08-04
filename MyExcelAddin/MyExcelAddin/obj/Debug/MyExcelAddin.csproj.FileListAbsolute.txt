@@ -1,0 +1,16 @@
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\MyExcelAddin.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\MyExcelAddin.pdb
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\MyExcelAddin.dll.manifest
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\MyExcelAddin.vsto
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\obj\Debug\MyExcelAddin.Properties.Resources.resources
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\obj\Debug\MyExcelAddin.Ribbon1.resources
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\obj\Debug\MyExcelAddin.csproj.GenerateResource.Cache
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\obj\Debug\MyExcelAddin.dll
+C:\Users\Timper\documents\visual studio 2015\Projects\MyExcelAddin\MyExcelAddin\obj\Debug\MyExcelAddin.pdb
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\MyExcelAddin\MyExcelAddin\obj\Debug\MyExcelAddin.csprojResolveAssemblyReference.cache
