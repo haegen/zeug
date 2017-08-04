@@ -1,0 +1,15 @@
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\obj\Debug\InsoBaseAddin.Properties.Resources.resources
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\obj\Debug\InsoBaseAddin.Ribbon1.resources
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\obj\Debug\InsoBaseAddin.csproj.GenerateResource.Cache
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\InsoBaseAddin.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\InsoBaseAddin.pdb
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\InsoBaseAddin.dll.manifest
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\InsoBaseAddin.vsto
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\obj\Debug\InsoBaseAddin.dll
+C:\Users\Timper\Documents\Visual Studio 2015\Projects\InsoE\InsoBase_ZG_branch1_EntwicklerVersion\InsoBaseAddin\obj\Debug\InsoBaseAddin.pdb
